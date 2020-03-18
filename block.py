@@ -2,8 +2,7 @@
 # datatime include same time fuction like currenttime
 # hashlib include algorithm of Sha256 
 import datetime
-i
-mport hashlib
+import hashlib
 # we need only two classes.these are block and blockchain.
 #defining the block 
 class Block:
