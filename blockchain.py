@@ -1,3 +1,4 @@
+
 from block import Block
 class Blockchain:
     diff = 20
