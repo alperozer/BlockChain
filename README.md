@@ -23,3 +23,10 @@ Coding logic
 
 We only need 4 steps for this simple blockchain program. These are the library definitions in order, the creation of the block class, the creation of the blockchain class, and the final step is to show what we have done.
 We only need 2 classes. One of them is to create the block structure, the other is to create the blocks that we have created to connect to each other in an encrypted way.
+
+Steps
+
+1.Import dependencies
+2.Create a block
+3.Create a blockchain
+4.Print out the blockchain
