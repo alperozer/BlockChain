@@ -4,9 +4,9 @@ Philosophy
 This is called a block ,which contains index,transaction time, data, hash, and previous hash information.
 2.	What is block chain?
 The chain that is created by connecting these blocks to each other is called blockchain. An example of blockchain is given below.
-  What does bitcoin or any cryptocurrency have to do with the block chain?
+3. What does bitcoin or any cryptocurrency have to do with the block chain?
 Bitcoin or cryptopara is in essence just a money transfer book. This information is kept in a chain. That makes it safe. Ensures that no transactions can be performed at the same time. we can't create an infinite array. Necessarily has an end.
-3.	What makes Bitcoin valuable?
+4.	What makes Bitcoin valuable?
 Just like the money used today. People are what make money valuable. What makes bitcoin so valuable to cryptopara is that we are the people again. Because it has so many users, this cryptopara is more valuable than others. In short the blockchain precious we write still needs a lot of users to arrive.
 
 Overview
