@@ -3,7 +3,7 @@ Philosophy
 1.	What's block?
 This is called a block ,which contains index,transaction time, data, hash, and previous hash information.
 2.	What is block chain?
-The chain that is created by connecting these blocks to each other is called blockchain. An example of blockchain is given below.
+The chain that is created by connecting these blocks to each other is called blockchain. 
 3. What does bitcoin or any cryptocurrency have to do with the block chain?
 Bitcoin or cryptopara is in essence just a money transfer book. This information is kept in a chain. That makes it safe. Ensures that no transactions can be performed at the same time. we can't create an infinite array. Necessarily has an end.
 4.	What makes Bitcoin valuable?
